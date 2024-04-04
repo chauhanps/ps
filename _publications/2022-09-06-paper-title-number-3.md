@@ -2,6 +2,7 @@
 title: "Molecular Insights into the Recognition of Acetylated Histone Modifications by the BRPF2 Bromodomain."
 collection: publications
 permalink: /publication/2022-09-06-paper-title-number-3
+excerpt: BRPF2, a crucial partner of HBO1 histone acetyltransferase complex, plays a role in directing the complex to chromatin for gene expression regulation. Our study unveils BRPF2's bromodomain as capable of recognizing various acetyllysine residues on histones H4, H3, and H2A, with a preference for H4K5ac, H4K8ac, and H4K5acK12ac modifications. Mutational analysis of the bromodomain identifies key residues for acetyllysine binding. Additionally, ChIP-seq analysis shows BRPF2 co-localizes with HBO1 at H4K5ac and H4K8ac marks near transcription start sites, highlighting its role in chromatin recruitment for gene regulation.
 date: 2022-09-06
 venue: 'Biochemistry'
 paperurl: 'https://pubs.acs.org/doi/10.1021/acs.biochem.2c00297'
