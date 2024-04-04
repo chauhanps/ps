@@ -2,6 +2,7 @@
 title: "Insights into the Molecular Mechanisms of Histone Code Recognition by the BRPF3 Bromodomain"
 collection: publications
 permalink: /publication/2021-11-02-paper-title-number-4
+excerpt: BRPF3 is a crucial scaffold protein in gene transcription regulation, forming a complex with HBO1 histone acetyltransferase. Our study reveals that BRPF3 bromodomain interacts with mono- and di-acetylated histone peptides (H4K5ac and H4K5acK12ac). Pull-down assays with full-length histones confirm this interaction. Molecular dynamics simulations illustrate the binding mechanism and stability of the bromodomain-histone peptide complexes. These findings shed light on how BRPF3 directs HBO1 complex recruitment to chromatin for transcriptional regulation.
 date: 2021-11-02
 venue: 'Chem Asian J.'
 paperurl: 'https://onlinelibrary.wiley.com/doi/10.1002/asia.202100793'
