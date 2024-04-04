@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Soumen Barman"
+title                    : "Soumen's Homepage"
 title_separator          : "-"
 name                     : &name "Soumen Barman"
 description              : &description "personal description"
@@ -26,7 +26,7 @@ author:
   pronouns         : # example: "she/her"  
   bio              : #"Short biography for the left-hand sidebar"
   location         : #"Earth"
-  employer         : "Indian Institute of Science Education and Research Kolkata (IISER Kolkata)"
+  employer         : "IISER Kolkata"
   uri              : # URL
   email            : "soumenbarman710@gmail.com" 
 
