@@ -1,12 +1,12 @@
 ---
-title: "Uncovering the Nonhistone Interactome of BRPF1 Bromodomain Using SiteSpecific Azide-Acetyllysine Photochemistry"
+title: "U.Engineering an acetyllysine reader with a photocrosslinking amino acid for interactome profiling"
 collection: publications
 permalink: /publication/2009-10-01-paper-title-number-1
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
+date: 2021-28-09
 venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+paperurl: 'http://academicpages.github.io/files/paper1.pdf](https://pubs.rsc.org/en/content/articlelanding/2021/cc/d1cc04611j'
+citation: 'Roy A, Barman S, Padhan J, Sudhamalla B. Engineering an acetyllysine reader with a photocrosslinking amino acid for interactome profiling. Chem Commun (Camb). 2021 Sep 28;57(77):9866-9869. doi: 10.1039/d1cc04611j. PMID: 34490864'
 ---
 
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+The site-specific installation of light-activable crosslinker unnatural amino acids offers a powerful approach to trap transient protein–protein interactions both in vitro and in vivo. Herein, we engineer a bromodomain to introduce 4-benzoyl-L-phenylalanine (BzF) using amber suppressor mutagenesis without compromising its ability to recognize the acetylated histone proteins. We demonstrate the high crosslinking efficiency of the engineered reader towards the interacting partners and its suitability for profiling the transient bromodomain interactome.
