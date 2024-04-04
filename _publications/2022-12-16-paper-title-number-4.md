@@ -1,7 +1,7 @@
 ---
 title: "Identification of novel natural product inhibitors of BRD4 using high throughput virtual screening and MD simulation"
 collection: publications
-permalink: /publication/2022-12-16-paper-title-number-2
+permalink: /publication/2022-12-16-paper-title-number-4
 date: 2022-12-16
 venue: 'J Biomol Struct Dyn'
 paperurl: 'https://www.tandfonline.com/doi/abs/10.1080/07391102.2022.2155346'
