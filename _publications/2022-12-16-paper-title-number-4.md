@@ -2,6 +2,7 @@
 title: "Identification of novel natural product inhibitors of BRD4 using high throughput virtual screening and MD simulation"
 collection: publications
 permalink: /publication/2022-12-16-paper-title-number-4
+excerpt: Bromodomains, vital in gene expression regulation, are implicated in various diseases, making them targets for therapeutic intervention. BRD4, a well-studied bromodomain in cancers like AML and Burkitt Lymphoma, has attracted attention for inhibitor development. However, existing inhibitors often lack specificity and safety. Our study screened natural compounds from the NPASS database against BRD4-BD1 using computational methods. Five inhibitors with comparable or superior binding affinity compared to JQ1 were identified, including NPC268484 (Palodesangren-B), NPC295021 (Candidine), and NPC313112 (Buxifoliadine-D). These findings offer potential candidates for further validation in future experimental studies.
 date: 2022-12-16
 venue: 'J Biomol Struct Dyn'
 paperurl: 'https://www.tandfonline.com/doi/abs/10.1080/07391102.2022.2155346'
