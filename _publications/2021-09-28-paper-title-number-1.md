@@ -1,5 +1,5 @@
 ---
-title: "U.Engineering an acetyllysine reader with a photocrosslinking amino acid for interactome profiling"
+title: "Engineering an acetyllysine reader with a photocrosslinking amino acid for interactome profiling"
 collection: publications
 permalink: /publication/2021-09-28-paper-title-number-1
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
