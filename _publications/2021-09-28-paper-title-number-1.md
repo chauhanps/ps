@@ -4,7 +4,8 @@ collection: publications
 permalink: /publication/2021-09-28-paper-title-number-1
 date: 2021-09-28
 venue: 'Chem Commun (Camb)'
-paperurl: 'https://pubs.rsc.org/en/content/articlelanding/2021/cc/d1cc04611j'
+paperurl: 'https://pubs.rsc.org/en/content/articlelanding/2021/cc/d1cc04611j'  
+
 citation: 'Roy A, Barman S, Padhan J, Sudhamalla B. Engineering an acetyllysine reader with a photocrosslinking amino acid for interactome profiling. Chem Commun (Camb). 2021 Sep 28;57(77):9866-9869. doi: 10.1039/d1cc04611j. PMID: 34490864'
 ---
 
