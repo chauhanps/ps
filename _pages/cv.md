@@ -24,7 +24,7 @@ Research experience
 
 * Project Student (Master’s Thesis) 2017 - 2018
   * Vidyasagar University (Midnapore, India)
-  * Duties included: **Neurotoxic Effects of Lead (pb) on Mus musculus and its Recovery by _Phyllanthus emblica_**
+  * Project title: **Neurotoxic Effects of Lead (pb) on Mus musculus and its Recovery by _Phyllanthus emblica_**
   * Supervisor: Prof. Jayanta Kumar Kundu  
   
 Skills
