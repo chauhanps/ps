@@ -1,6 +1,6 @@
 ---
 title: "Interaction Based Protein Profiling (IBPP)"
-excerpt: "Interaction Based Protein Profiling (IBPP) approach to identify transiently interacting non-histone partners like transcription factors (TFs) and chromatin regulators (CRs) of <br/><img src='/images/photocrosslinking_git.png'>"
+excerpt: "Interaction Based Protein Profiling (IBPP) approach to identify transiently interacting non-histone partners like transcription factors (TFs) and chromatin regulators (CRs) of <br/><img src='/images/photocrosslinking_git.png' width='300'>"
 collection: portfolio
 ---
 
