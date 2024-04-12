@@ -1,10 +1,10 @@
 ---
-title: "Recent Advances In Microscopy Methods and Techniques"
+title: "Surface Plasmon Resonance (SPR)"
 collection: talks
-type: "Workshop"
+type: "Tutorial"
 permalink: /talks/2013-03-01-tutorial-1
 venue: "Karyashala (Workshop) on advanced bio-analytical methods and applications-2022, 2022, Indian Institute of Science Education and Research, (Kolkata, India)"
-date: 2022-03-01
+date: 2022-01-01
 location: "Kolkata, India"
 ---
 
