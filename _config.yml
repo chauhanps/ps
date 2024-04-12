@@ -260,7 +260,7 @@ defaults:
       author_profile: true
       share: true
       comment: true
-  # _Wokshops and Conferences
+  # _talks
   - scope:
       path: ""
       type: talks
