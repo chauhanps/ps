@@ -226,7 +226,7 @@ defaults:
       comments: true
       share: true
       related: true
-  # _Wokshops and Conferences
+  # _pages
   - scope:
       path: ""
       type: pages
@@ -260,7 +260,7 @@ defaults:
       author_profile: true
       share: true
       comment: true
-  # _talks
+  # _Wokshops and Conferences
   - scope:
       path: ""
       type: talks
