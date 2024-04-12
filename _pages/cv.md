@@ -29,12 +29,21 @@ Research experience
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
+* Molecular Biology
+  * SDS-PAGE, Agarose Gel Electrophoresis, Westernblot, DNA/RNA/nucleosome/histone isolation, RT-PCR, qPCR, Immunoprecipitation (IP), Plasmid Expression and Isolation, Coimmunoprecipitation (coIP), Chromatin Immunoprecipitation (ChIP) 
+* Protein Biochemistry
+  * Bacterial Expression of Protein, Protein Purification by Affinity Chromatography (Ni-NTA, GST) and Size Exclusion Chromatography (FPLC), Isothermal Titration Calorimetry (ITC), Surface Plasmon Resonance (SPR), Fluorescence Polarization (FP), In-Gel Fluorescence, Photocrosslinking (in vitro), Unnatural Amino Acids Mutagenesis(AzF,BzF)  
   * Sub-skill 2.2
   * Sub-skill 2.3
-* Skill 3
+* Cell Culture
+  * Adherent Cell Culture of Mammalian Cells, Cells Freezing, Reviving and Passaging, Cell Counting in Hemocytometer, Transfection 
+* Bioinformatics Tools
+  * Virtual Screening Using Autodock Vina, PyMOL, Chimera, Discovery Studio Visualizer, Schrodinger Software 2018, Molecular Dynamics Using Gromacs, ChIP Seq Data Analysis, ATAC Seq Data Analysis, RNA Seq Data Analysis,
+Single-Cell RNA-Seq Analysis, Proteomics Data Analysis Using Maxquant, Galaxy
+* Analytics and Programming
+  * Origin, Graphpad Prism, Gnu Plot, Xmgrace, Python Basics and R (For analysis of Molecular Dynamics, ChIP seq, Bulk RNA Seq and Single-Cell RNA-Seq Data Analysis)
+* Vector Designing
+  * Adobe Illustrator, Blender
 
 Publications
 ======
