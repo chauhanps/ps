@@ -226,7 +226,7 @@ defaults:
       comments: true
       share: true
       related: true
-  # _pages
+  # _Wokshops and Conferences
   - scope:
       path: ""
       type: pages
