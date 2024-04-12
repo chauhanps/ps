@@ -1,6 +1,6 @@
 ---
 title: "Protein Engineering"
-excerpt: "This image generated using blender a 3D modelling tool<br/><img src='/images/Rigging.jpg' width='300'>"
+excerpt: "This image generated using blender a 3D modelling tool<br/><img src='/images/Rigging.jpg' width='500'>"
 collection: portfolio
 ---
 
