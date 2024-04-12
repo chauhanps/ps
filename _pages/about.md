@@ -9,6 +9,7 @@ redirect_from:
 ---
 ![Illustration of combining vision and language modalities](/images/chromatin_45.png){: .align-right width="300px"}
 🔬 Being a biochemist with a fervent interest in computational and genomic data analysis as well as protein engineering, my research endeavors are dedicated to bridging the realms of molecular biology and computational methodologies. At present, I am exploring the transformative potential of self-supervised learning techniques in reshaping our comprehension and manipulation of biological systems.
+
 📚 Currently, I am deeply immersed in the academic realm, pursuing my postdoctoral training at the National Institute on Aging (NIA/NIH). Here, my concentration revolves around deciphering the intricate molecular mechanisms underlying age-related changes in transcriptional regulation, with a special emphasis on immune cells.
 # Selected Experience
 ## 🧬 Computational Biology Contributions
