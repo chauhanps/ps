@@ -12,11 +12,11 @@ redirect_from:
 
 📚 Currently, I am deeply immersed in the academic realm, pursuing my postdoctoral training at the National Institute on Aging (NIA/NIH). Here, my concentration revolves around deciphering the intricate molecular mechanisms underlying age-related changes in transcriptional regulation, with a special emphasis on immune cells.
 # Selected Experience
-## 🧬 Computational Biology Contributions
-My contributions to the field of computational biology are extensive, leveraging my expertise in biochemistry to delve into the complexities of transcriptional regulation within aging processes, particularly in immune cells.
+## 🧬 Computational Biology
+My contributions to the field of computational biology is very little, but in future I want to explore transcriptional regulation within aging processes leveraging my expertise in biochemistry to delve into the complexities, particularly in immune cells.
 ## 📊 Research Reproductions
 I have a proven track record of independently replicating and extending seminal research in computational biology. Through meticulous reimplementation and validation of key findings from prominent papers, I ensure the reliability and robustness of scientific results.
 ## 👩‍🔬 Professional Engagements
-Currently, I am fully engaged in groundbreaking research as a Student Researcher at NIA/NIH, collaborating closely with leading experts in the field to advance our understanding of age-related molecular dynamics.
+Currently, I am fully engaged in aging associated research as a Post Doc Researcher at NIA/NIH, collaborating closely with leading experts in the field to advance our understanding of age-related molecular dynamics.
 ## 🎓 Educational Initiatives
 Driven by a deep-seated passion for knowledge dissemination, I actively contribute to educational initiatives across various platforms. Through my presence on YouTube, I strive to offer insightful content on computational biology, empowering both enthusiasts and professionals to delve deeper into this captivating field.
