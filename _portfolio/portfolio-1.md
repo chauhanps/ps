@@ -1,6 +1,6 @@
 ---
 title: "Protein Engineering"
-excerpt: "This image generated using blender a 3D modelling tool<br/><img src='/images/Rigging.jpg' width='500'>"
+excerpt: "We engineer epigenetic proteins through incorporation of unnatural amino acid to capture it's histone and non-histon binding partners <br/><img src='/images/Rigging.jpg' width='500'>"
 collection: portfolio
 ---
 
