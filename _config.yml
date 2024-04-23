@@ -12,7 +12,7 @@ title                    : "Soumen's Homepage"
 title_separator          : "-"
 name                     : &name "Soumen Barman"
 description              : &description "personal description"
-url                      : https://sbmean710.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://soumen-barman.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : #"academicpages/academicpages.github.io"
 
