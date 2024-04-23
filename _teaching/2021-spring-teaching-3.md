@@ -8,13 +8,16 @@ date: 2021-08-01
 location: "Kolkata, India"
 ---
 
-This is a description of a teaching experience.
+As a TA, I provided crucial instructional support during lectures, tutorials, and laboratory sessions, guiding students through the fundamental concepts, algorithms, and tools used in bioinformatics analysis. I facilitated discussions, presented case studies, and conducted hands-on demonstrations to elucidate the application of bioinformatics techniques in biological research.
 
-Heading 1
+Grading and Feedback:
 ======
+I played an integral role in assessing student progress by grading assignments, projects, and assessments related to bioinformatics analysis. I provided constructive feedback, highlighting strengths and areas for improvement, and engaged in one-on-one discussions to clarify concepts and address any challenges encountered during the learning process.
 
-Heading 2
+Student Support:
 ======
+As a resource for students, I offered personalized support and guidance, addressing inquiries, troubleshooting technical issues, and providing assistance with bioinformatics software and tools. I fostered a collaborative and inclusive atmosphere where students felt comfortable exploring complex concepts and seeking help as needed, thereby promoting a deeper understanding of bioinformatics principles.
 
-Heading 3
+Technology Assistance:
 ======
+Given the reliance on computational tools and software in bioinformatics analysis, I provided technical support in navigating bioinformatics databases, programming languages, and statistical packages. I helped students develop proficiency in data visualization, sequence analysis, and genome annotation, empowering them to tackle complex biological questions using computational methods.
