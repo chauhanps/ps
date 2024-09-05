@@ -2,7 +2,7 @@
 title: "Novel insights into the recognition of acetylated histone H4 tail by the TRIM24 PHD-Bromo module"
 collection: publications
 permalink: /publication/2010-10-01-paper-title-number-2
-excerpt: 'TRIM24 is a chromatin reader that activates estrogen-dependent genes in tumor development. It ubiquitinates p53 and binds a specific histone signature (H3K4me0/H3K23ac) via its RING, PHD, and Bromo domains. High TRIM24 and H3K23ac levels predict poor breast cancer survival. We explored TRIM24 binding to acetylated histone H4 (H4ac). TRIM24 PHD-Bromo preferentially binds H4K5ac, H4K8ac, and H4K5acK8ac. This binding doesn't interfere with PHD's recognition of H3K4me0. H4K5ac and H4K8ac co-localize near gene transcription start sites in breast cancer. TRIM24-H4ac targets are linked to vital biological pathways, suggesting a role in transcriptional regulation.'
+excerpt: TRIM24 is a chromatin reader that activates estrogen-dependent genes in tumor development. It ubiquitinates p53 and binds a specific histone signature (H3K4me0/H3K23ac) via its RING, PHD, and Bromo domains. High TRIM24 and H3K23ac levels predict poor breast cancer survival. We explored TRIM24 binding to acetylated histone H4 (H4ac). TRIM24 PHD-Bromo preferentially binds H4K5ac, H4K8ac, and H4K5acK8ac. This binding doesn't interfere with PHD's recognition of H3K4me0. H4K5ac and H4K8ac co-localize near gene transcription start sites in breast cancer. TRIM24-H4ac targets are linked to vital biological pathways, suggesting a role in transcriptional regulation.
 date: 2023-05-17
 venue: 'Biochem J.'
 paperurl: 'https://portlandpress.com/biochemj/article-abstract/480/9/629/232921/Novel-insights-into-the-recognition-of-acetylated?redirectedFrom=fulltext'

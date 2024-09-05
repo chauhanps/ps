@@ -2,7 +2,7 @@
 title: "Insulin fibril inhibition using glycopolymeric nanoassemblies"
 collection: publications
 permalink: /publication/2010-10-01-paper-title-number-2
-excerpt: 'We synthesized block copolymers via RAFT polymerization, containing Boc-protected leucine and Ac-protected glucose. Deprotection yielded amphiphilic polymers forming nano aggregates in water inhibited insulin fibrillation through hydrophobic, electrostatic, and hydrogen bonding interactions. Biophysical techniques confirmed the inhibition, with molecular dynamics simulations supporting the findings.'
+excerpt: We synthesized block copolymers via RAFT polymerization, containing Boc-protected leucine and Ac-protected glucose. Deprotection yielded amphiphilic polymers forming nano aggregates in water inhibited insulin fibrillation through hydrophobic, electrostatic, and hydrogen bonding interactions. Biophysical techniques confirmed the inhibition, with molecular dynamics simulations supporting the findings.
 date: 2023-03-31
 venue: 'Biomater Sci.'
 paperurl: 'https://pubs.rsc.org/en/content/articlelanding/2023/bm/d2bm02078e'

@@ -2,7 +2,7 @@
 title: "Integrated virtual screening and MD simulation approaches toward discovering potential inhibitors for targeting BRPF1 bromodomain in hepatocellular carcinoma"
 collection: publications
 permalink: /publication/2010-10-01-paper-title-number-2
-excerpt: 'Hepatocellular carcinoma (HCC) is a deadly cancer with limited treatment options. We analyzed bromodomain-containing proteins (BRPF) in HCC and found BRPF1 to be significantly upregulated, correlating with poor patient survival. Targeting BRPF1 could improve HCC treatment. We employed high-throughput virtual screening and machine learning-based QSAR modeling to identify new BRPF1 inhibitors. Through extensive molecular dynamics simulations, we discovered four lead compounds with promising binding affinity for the BRPF1 bromodomain, suggesting their potential as potent inhibitors for HCC therapy.'
+excerpt: Hepatocellular carcinoma (HCC) is a deadly cancer with limited treatment options. We analyzed bromodomain-containing proteins (BRPF) in HCC and found BRPF1 to be significantly upregulated, correlating with poor patient survival. Targeting BRPF1 could improve HCC treatment. We employed high-throughput virtual screening and machine learning-based QSAR modeling to identify new BRPF1 inhibitors. Through extensive molecular dynamics simulations, we discovered four lead compounds with promising binding affinity for the BRPF1 bromodomain, suggesting their potential as potent inhibitors for HCC therapy.
 date: 2023-09-26
 venue: 'Journal of Molecular Graphics and Modelling'
 paperurl: 'https://www.sciencedirect.com/science/article/pii/S1093326323002401?via%3Dihub'

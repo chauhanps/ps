@@ -2,7 +2,7 @@
 title: "Uncovering the Domain-Specific Interactome of the TAF1 Tandem Reader Using Site-Specific Azide-Acetyllysine Photochemistry"
 collection: publications
 permalink: /publication/2010-10-01-paper-title-number-2
-excerpt: 'In this study, we investigated how TAF1 dual bromodomain mediates crosstalk among histone modifications. We engineered TAF1 to carry a photoactivatable amino acid, AzF and created analogs targeting each bromodomain separately and both together. Structural integrity was confirmed, and binding properties to acetylated histone ligands were characterized. Both bromodomains independently recognized unique interacting partners at the cellular level. Our findings suggest that BD1 and BD2 of the TAF1 tandem reader independently regulate downstream cellular functions by recognizing specific interacting partners.'
+excerpt: In this study, we investigated how TAF1 dual bromodomain mediates crosstalk among histone modifications. We engineered TAF1 to carry a photoactivatable amino acid, AzF and created analogs targeting each bromodomain separately and both together. Structural integrity was confirmed, and binding properties to acetylated histone ligands were characterized. Both bromodomains independently recognized unique interacting partners at the cellular level. Our findings suggest that BD1 and BD2 of the TAF1 tandem reader independently regulate downstream cellular functions by recognizing specific interacting partners.
 date: 2023-01-17
 venue: 'Biochemistry'
 paperurl: 'https://pubs.acs.org/doi/10.1021/acs.biochem.2c00140'
